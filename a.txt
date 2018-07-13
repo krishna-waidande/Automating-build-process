@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hii there , my name is krishna.
 hii this is testing
+=======
+hii there , my name is krishna
+>>>>>>> de56c3cc19aae51a43c4b5f118dae5c981495468
